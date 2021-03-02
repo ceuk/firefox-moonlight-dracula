@@ -1,8 +1,14 @@
-# Moonlight 🌌 userChrome
+# Moonlight 🌌 userChrome - [Dracula](https://draculatheme.com/) version
 
 A dark userstyle for Firefox inspired by [moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) and [github-moonlight](https://github.com/Brettm12345/github-moonlight)
 
-![Firefox screenshot with the moonlight theme activated](https://github.com/eduardhojbota/moonlight-userChrome/raw/master/preview.jpg)
+![Firefox screenshot with the moonlight theme activated](https://user-images.githubusercontent.com/1681236/109684344-172c4000-7b78-11eb-88c1-91f9df196c49.png)
+
+It should match other Dracula-themed apps nicely
+
+![Firefox screenshot with the moonlight theme activated and a terminal with Reddit content inside it to the side](https://user-images.githubusercontent.com/1681236/109684797-89048980-7b78-11eb-9820-ad437ccbe1c0.png)
+
+
 
 ## Installation
 
