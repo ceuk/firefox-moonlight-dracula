@@ -18,8 +18,8 @@
 }
 
 .tabbrowser-tab .tab-stack {
-    background: var(--moonlight-gray-4) !important;
-    border: 1px solid var(--moonlight-gray-1) !important;
+    background: var(--moonlight-gray-2) !important;
+    border: 1px solid var(--moonlight-gray-2) !important;
     margin: 2px 4px 2px 2px !important;
     border-radius: 3px !important;
     color: var(--moonlight-gray-10) !important;
@@ -40,11 +40,11 @@
     background: var(--moonlight-gray-5) !important;
 }
 .tabbrowser-tab[selected] .tab-stack {
-    border-color: var(--moonlight-gray-2) !important;
+    border-color: var(--moonlight-gray-1) !important;
     color: var(--moonlight-gray-10) !important;
 }
 .tabbrowser-tab[selected] .tab-background {
-    background: var(--moonlight-gray-2) !important;
+    background: var(--moonlight-gray-4) !important;
 }
 .tab-background .tab-line {
     display: none;
